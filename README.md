@@ -1,5 +1,5 @@
 
-# 🚀 HPC Assignment - Vector Addition and Matrix Multiplication using OpenMP
+# 🚀 HPC Practical 4 - Vector Addition and Matrix Multiplication using OpenMP
 
 This repository contains C programs for:
 - **Vector Addition** using OpenMP
@@ -60,3 +60,8 @@ The current system does not have an NVIDIA GPU.
 
 OpenMP allows efficient parallel programming on multi-core CPUs without needing any special hardware.  
 Hence, **OpenMP** is the preferred approach for this setup.
+
+---
+
+Author: [Arshad Ahmad Khan](https://instagram.com/khan0003.py)
+
