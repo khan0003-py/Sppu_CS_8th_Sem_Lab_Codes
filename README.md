@@ -63,5 +63,12 @@ Hence, **OpenMP** is the preferred approach for this setup.
 
 ---
 
-Author: [Arshad Ahmad Khan](https://instagram.com/khan0003.py)
+**Author:** Arshad Ahmad Khan  
+**Copyright:** ©2025 Arshad Ahmad Khan. All Rights Reserved.
 
+## 🔗 Connect with Me:
+
+[![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@khan0003-py)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khan0003-py/)
+[![Instagram](https://img.shields.io/badge/-Instagram-pink?logo=instagram&logoColor=white)](https://instagram.com/khan0003.py)
+[![Gmail](https://img.shields.io/badge/-Gmail-blueviolet?logo=gmail&logoColor=white)](mailto:khan0003.py@gmail.com)
